@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719147312569",
+    "project_id": "nasis-kalyanam",
+    "storage_bucket": "nasis-kalyanam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719147312569:android:dda69380d69f5fa8460268",
+        "android_client_info": {
+          "package_name": "com.example.nasis_wedding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQdP9Xc4ty3QrFX_pQhg0AKbBkvQ2Jzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
